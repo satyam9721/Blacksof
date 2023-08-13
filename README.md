@@ -6,11 +6,11 @@ Website is hosted on the:-  https://64d89c95f606f97b4bfbc2e3--papaya-licorice-46
 For Frontend :- https://64d89c95f606f97b4bfbc2e3--papaya-licorice-467ef3.netlify.app/
 
 All Routes for Frontend:-
-1. https://64d89c95f606f97b4bfbc2e3--papaya-licorice-467ef3.netlify.app/register
+1. /register
    
-2. https://64d89c95f606f97b4bfbc2e3--papaya-licorice-467ef3.netlify.app/success
+2. /success
 
-3. https://64d89c95f606f97b4bfbc2e3--papaya-licorice-467ef3.netlify.app/customers
+3. /customers
 
 For Backend :-
 
