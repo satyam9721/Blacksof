@@ -16,10 +16,10 @@ For Backend :-
 
 End points:- 
 
-1. https://react-nvex.onrender.com/customers
+1. https://react-nvex.onrender.com/customers (get request)
 
-2. https://react-nvex.onrender.com/register
+2. https://react-nvex.onrender.com/register (post request)
 
 
-All Data is sotred in the mongodb atlas.
+Clients's Data is stored in the mongodb atlas.
 
