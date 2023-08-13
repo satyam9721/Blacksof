@@ -19,3 +19,7 @@ End points:-
 1. https://react-nvex.onrender.com/customers
 
 2. https://react-nvex.onrender.com/register
+
+
+All Data is sotred in the mongodb atlas.
+
