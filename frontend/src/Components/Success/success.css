@@ -1,0 +1,23 @@
+.card-title{
+    color:  #FFA400;
+    ;
+}
+.tag{
+    color: white;
+   
+}
+.sucessBtn{
+    background-color: #E75553;
+ 
+    border-radius: 7.384572982788086px;
+   
+    width: 154.242188px;
+height: 53.96495819091797px;
+align-items: center;
+
+
+
+}
+.sucessBtn:hover{
+    background-color: #E75553;
+}

@@ -1,0 +1,68 @@
+.buttton{
+    width: auto;
+    padding: 8px 35px 8px 35px;
+}
+
+.home{
+    font-family: Urbanist;
+
+    h2{
+      font-weight: bolder;
+
+
+    }
+
+    /* p{
+      color: red;
+font-size: 40px;
+font-weight: 700;
+line-height: 34px;
+letter-spacing: 0em;
+text-align: left;
+
+
+
+    }
+
+    h6{
+      
+        font-size: 40px;
+        font-weight: 900;
+        line-height: 34px;
+        letter-spacing: 0em;
+        text-align: left;
+    } */
+}
+.headingA{
+    font-size: 38px;
+font-weight: 600;
+line-height: 53px;
+letter-spacing: 0em;
+
+}
+.slogan{
+    margin: auto;
+   
+font-size: 38px;
+font-weight: 600;
+line-height: 53px;
+letter-spacing: 0em;
+text-align: center;
+
+    
+}
+
+.info{
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 33px;
+    letter-spacing: 0em;
+ 
+}
+
+.info1{
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 33px;
+    letter-spacing: 0em;
+}
